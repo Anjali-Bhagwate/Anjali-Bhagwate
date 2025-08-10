@@ -1,4 +1,4 @@
-[!]()
+![logo](https://media.licdn.com/dms/image/v2/D5616AQGAyOP9t43CTQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722584166802?e=1757548800&v=beta&t=FfKctSc9tmoQyni62fbFSS7r_br3iG5QNXBLcBc7Gf4)
 <h1 align="center">Hi 👋, I'm Anjali Bhagwate</h1>
 <h3 align="center">A Passionate AIML Student | Proficient Python Developer</h3>
 
