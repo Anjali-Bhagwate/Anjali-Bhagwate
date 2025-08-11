@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Python Full-Stack Development Projects**
 
-- 🌱 I’m currently learning **Django framework**
+- 🌱 I’m currently learning **Django Framework**
 
 - 📫 How to reach me **bhagwateanjali2810@gmail.com**
 
